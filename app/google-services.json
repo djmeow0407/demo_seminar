@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "911998547367",
+    "firebase_url": "https://fir-832cc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-832cc",
+    "storage_bucket": "fir-832cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911998547367:android:5c99175f059b31ced6b282",
+        "android_client_info": {
+          "package_name": "com.demo.seminar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU6ma1-hB_1nmiJt7WUAQc85zncSJKWo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
